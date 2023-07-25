@@ -1,0 +1,7 @@
+Please install MedPy 0.4.0 into the mphy0030-cw environment for loading the GIPL file format.
+
+Installation command: pip install MedPy
+
+Older version of MedPy i.e. 0.3.0 can also be used.
+
+Installation command: pip install medpy==0.3.0
